@@ -46,7 +46,7 @@ def led_toggle(pin_1, pin_2, on_time, off_time):
 
 while True:
     try:
-        led_toggle(8, 9, 1000, 2000)  # Use pins 8 and 9 for two LEDs, with on_time and off_time intervals
+        led_toggle(8, 9, 100, 200)  # Use pins 8 and 9 for two LEDs, with on_time and off_time intervals
     except KeyboardInterrupt:
         print("Exit")
         break
