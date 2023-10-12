@@ -9,8 +9,8 @@ import network
 import time
 import sys
 
-ssid="Semaphore"
-psk="Mrinal@16"
+ssid="Fuck Society 4G"
+psk="Lawd@Lel3"
 
 try:
     #object for wlan
