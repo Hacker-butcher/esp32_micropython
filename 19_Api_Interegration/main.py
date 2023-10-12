@@ -34,7 +34,7 @@ led.off()
 
 # constants and variables
 HTTP_HEADERS = {'Content-Type' : 'application/json'}
-THINGSPEAK_WRITE_API_KEY = '7DDO5JCDEV3Z7Z0U'
+THINGSPEAK_WRITE_API_KEY = 'YOUR key'
 UPDATE_TIME_INTERVAL = 5000 # ms
 last_update = time.ticks_ms()
 
